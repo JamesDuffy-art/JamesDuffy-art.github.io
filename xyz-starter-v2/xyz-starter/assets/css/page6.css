@@ -1,0 +1,24 @@
+.circle1 {
+	width: 400px;
+	height: 400px;
+	background:linear-gradient(to bottom, red,blue);
+	border-radius: 100%;
+	margin-left: 600px
+}
+
+.square {
+	width: 400px;
+	height: 400px;
+	background:linear-gradient(to bottom right, red,blue);
+	margin-left: 200px;
+}
+
+.circle2 {
+	width: 400px;
+	height: 400px;
+	background:linear-gradient(to right, red,blue);
+	border-radius: 100%;
+}
+
+
+

@@ -1,0 +1,63 @@
+body {
+	font-family: futura,sans-serif;
+	font-size: 60px;
+	background-color: black;
+}
+
+.mada {
+	background-color: white;
+	animation: colorchange 5s infinite;
+	text-align: right;
+	margin-left: 50px
+	margin-bottom: 20px;
+}
+
+.date {
+	background-color: white;
+	animation: other 5s infinite;
+	text-align: left;
+	margin-left: 150px;
+	margin-bottom: 20px;
+	margin-top: 20px
+}
+
+.title {
+	background-color: white;
+	animation: colorchange 5s infinite;
+	text-align: right;
+	margin-left: 250px;
+	margin-bottom: 20px;
+
+}
+
+.sentence {
+	background-color: white;
+	animation: other 5s infinite;
+	text-align: left;
+	margin-bottom: 20px;
+	
+}
+
+@keyframes colorchange {
+	0% {
+ 		color:red;
+ 		width: 0%;
+	}
+	100% {
+ 		color:blue;
+ 		width: 80%;
+ 		letter-spacing: 25px;
+	}
+}
+
+@keyframes other {
+	0% {
+		color:blue;
+		width: 0%;
+	}
+	100% {
+		color:red;
+		width: 80%
+		letter-spacing: 25px;
+	}
+}

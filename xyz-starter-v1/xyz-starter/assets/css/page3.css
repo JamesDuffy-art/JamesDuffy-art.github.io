@@ -1,0 +1,38 @@
+body {
+	font-family: futura,sans-serif;
+	font-size: 60px;
+	text-align: center;
+	color:purple;
+	background-color: yellow;
+}
+
+.date {
+	font-size: 60px;
+	text-align: right;
+	background-color: yellow;
+}
+
+.title {
+	font-size: 60px;
+	text-align: center;
+	background-color: orange;
+	font-weight: bold;
+}
+
+.mada {
+	font-size: 120px;
+	text-align: center;
+	background-color: orange;
+	font-weight: bold;
+}
+
+.sentence {
+	font-size: 90px;
+	text-align: center;
+	font-style: italic;
+	margin-bottom: 20px;
+}
+
+a {
+	color:red;
+}

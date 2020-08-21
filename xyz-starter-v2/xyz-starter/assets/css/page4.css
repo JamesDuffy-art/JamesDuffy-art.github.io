@@ -1,0 +1,57 @@
+body {
+	font-family: Univers,sans-serif;
+	font-size: 60px;
+	color:white;
+	background-color: green;
+}
+
+.mada {
+	background-color: black;
+	border: 1px solid black;
+	display: inline-block;
+	width: 400px;
+	animation: colorchange 5s infinite;
+	vertical-align: 0px;
+}
+
+.date {
+	background-color: black;
+	border: 1px solid black;
+	display: inline-block;
+	width: 400px;
+	animation: colorchange 5s infinite;
+	vertical-align: 100px;
+}
+
+.title {
+	background-color: black;
+	border: 1px solid black;
+	display: inline-block;
+	width: 400px;
+	animation: colorchange 5s infinite;
+	vertical-align: 200px;
+}
+
+.sentence {
+	margin-top: 100px;
+}
+
+
+@keyframes colorchange {
+	0% {
+ 		color:red;
+	}
+	50% {
+		color:yellow;
+	}
+	100% {
+ 		color:blue;
+}
+
+span {
+	background-color: black;
+	border: 1px solid black;
+	display: inline-block;
+	width: 400px;
+	animation: colorchange 5s infinite;
+}

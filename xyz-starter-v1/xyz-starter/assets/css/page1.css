@@ -1,0 +1,41 @@
+body {
+	font-family: Times New Roman,Arial,sans-serif;
+	font-size: 60px;
+	text-align: center;
+	color:orange;
+	background-color: white;
+}
+
+.date {
+	font-size: 60px;
+	text-align: right;
+	background-color: white;
+}
+
+.title {
+	font-size: 90px;
+	text-align: left;
+	background-color: cyan;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+.mada {
+	font-size: 150px;
+	text-align: right;
+	background-color: cyan;
+	font-weight: bold;
+}
+
+.sentence {
+	font-size: 60px;
+	text-align: left;
+	font-style: italic;
+	margin-bottom: 20px;
+}
+
+a {
+	color:red;
+}
+
+

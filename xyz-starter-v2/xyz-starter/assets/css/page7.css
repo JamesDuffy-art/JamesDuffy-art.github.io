@@ -1,0 +1,25 @@
+body {
+	background-color: blue
+}
+
+body:hover {
+	background-color: yellow
+}
+
+.box {
+	font-family: arial;
+	font-size: 70px;
+	text-align: center;
+	width: 400px;
+	height: 400px;
+	border-radius: 100%;
+	background-color: yellow;
+	white-space: nowrap;
+	overflow: scroll;
+	margin-left: 400px;
+}
+
+.box:hover {
+	background-color: blue;
+	color:yellow;
+}

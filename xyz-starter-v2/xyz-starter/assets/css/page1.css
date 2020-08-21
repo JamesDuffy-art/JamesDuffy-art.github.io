@@ -1,0 +1,46 @@
+body {
+	font-family: Times New Roman,Arial,sans-serif;
+	font-size: 60px;
+	text-align: center;
+	color:orange;
+	background-color: black;
+	animation: colorchange 5s infinite;
+}
+
+.mada {border: 1px solid black;
+	display: inline-block;
+	width: 400px;
+	background-color: red;
+}
+
+.title {border: 1px solid black;
+	display: inline-block;
+	width: 400px;
+	background-color: red;
+}
+
+.date {border: 1px solid black;
+	display: inline-block;
+	width: 400px;
+	background-color: red;
+}
+
+.sentence {border: 1px solid black;
+	display: inline-block;
+	width: 1225px;
+	background-color: red;
+	margin-top: 20px;
+	margin-bottom: 20px
+}
+
+@keyframes colorchange {
+	0% {
+ 		color:red;
+	}
+	50% {
+		color:yellow;
+	}
+	100% {
+ 		color:blue;
+}
+
