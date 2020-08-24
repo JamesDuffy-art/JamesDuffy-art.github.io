@@ -6,10 +6,8 @@ body {
 	color: white;
 }
 
-.title {
-	text-align: center;
-	background-color: black;
-	color: white;
+span {
+	background-color: green;
 }
 
 
