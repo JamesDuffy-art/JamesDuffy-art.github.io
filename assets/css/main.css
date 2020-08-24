@@ -3,7 +3,11 @@ body {
 	font-size: 32px;
 }
 
-a {
-	color:red;
+.title {
+	text-align: center;
+	background-color: black;
+	color: white;
 }
+
+
 
