@@ -4,7 +4,7 @@ body {
 
 .title {
 	font-family: Helvetica,Arial,sans-serif;
-	font-size: 40px;
+	font-size: 70px;
 	text-align: center;
 	background-color: red;
 	color: white;
@@ -12,11 +12,11 @@ body {
 
 .icon1 {
 	font-family: arial;
-	font-size: 70px;
+	font-size: 40px;
 	color: white;
 	text-align: center;
-	width: 400px;
-	height: 200px;
+	width: 200px;
+	height: 50px;
 	background-color: red;
 	white-space: nowrap;
 	margin-left: 50px;
@@ -24,6 +24,42 @@ body {
 }
 
 .icon1:hover {
+	background-color:white;
+	color: red
+}
+
+.icon2 {
+	font-family: arial;
+	font-size: 40px;
+	color: white;
+	text-align: center;
+	width: 200px;
+	height: 50px;
+	background-color: red;
+	white-space: nowrap;
+	margin-left: 400px;
+	margin-top: 10px;
+}
+
+.icon2:hover {
+	background-color:white;
+	color: red
+}
+
+.icon3 {
+	font-family: arial;
+	font-size: 40px;
+	color: white;
+	text-align: center;
+	width: 200px;
+	height: 50px;
+	background-color: red;
+	white-space: nowrap;
+	margin-right: 50px;
+	margin-top: 10px;
+}
+
+.icon3:hover {
 	background-color:white;
 	color: red
 }
