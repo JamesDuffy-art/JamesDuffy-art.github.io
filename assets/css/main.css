@@ -8,6 +8,7 @@ body {
 	text-align: center;
 	background-color: red;
 	color: white;
+	margin-bottom: 10px;
 }
 
 .icon1 {
@@ -37,7 +38,7 @@ body {
 	height: 50px;
 	background-color: red;
 	white-space: nowrap;
-	margin-left: 500px;
+	margin-left: 550px;
 	margin-top: 10px;
 }
 
@@ -55,7 +56,7 @@ body {
 	height: 50px;
 	background-color: red;
 	white-space: nowrap;
-	margin-left: 1000px;
+	margin-left: 1050px;
 	margin-top: 10px;
 }
 
