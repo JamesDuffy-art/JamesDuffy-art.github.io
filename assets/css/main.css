@@ -13,12 +13,17 @@ body {
 .icon1 {
 	font-family: arial;
 	font-size: 70px;
-	text-align: left;
+	color: white;
+	text-align: middle;
 	width: 400px;
 	height: 400px;
 	border-radius: 100%;
 	background-color: red;
 	white-space: nowrap;
 	margin-left: 400px;
+	margin-top: 400px;
 }
 
+.icon1:hover {
+	background-color:yellow;
+}
