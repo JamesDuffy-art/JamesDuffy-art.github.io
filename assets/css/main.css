@@ -1,14 +1,24 @@
 body {
-	
+	background-color: green;
 }
 
 .title {
 	font-family: Helvetica,Arial,sans-serif;
 	font-size: 40px;
 	text-align: center;
-	background-color: black;
+	background-color: red;
 	color: white;
 }
 
-
+.icon1 {
+	font-family: arial;
+	font-size: 70px;
+	text-align: left;
+	width: 400px;
+	height: 400px;
+	border-radius: 100%;
+	background-color: red;
+	white-space: nowrap;
+	margin-left: 400px;
+}
 
