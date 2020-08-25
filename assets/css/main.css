@@ -1,5 +1,5 @@
 body {
-	background-color: green;
+	background-color: black;
 }
 
 .title {
@@ -19,9 +19,11 @@ body {
 	height: 200px;
 	background-color: red;
 	white-space: nowrap;
-	margin-left: 400px;
+	margin-left: 50px;
+	margin-top: 10px;
 }
 
 .icon1:hover {
-	background-color:yellow;
+	background-color:white;
+	color: red
 }
