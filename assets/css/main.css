@@ -20,7 +20,6 @@ body {
 	height: 50px;
 	background-color: red;
 	white-space: nowrap;
-	margin-left: 50px;
 	margin-top: 10px;
 	display: inline-block;
 }
@@ -39,7 +38,6 @@ body {
 	height: 50px;
 	background-color: red;
 	white-space: nowrap;
-	margin-left: 550px;
 	margin-top: 10px;
 	display: inline-block;
 }
@@ -58,7 +56,6 @@ body {
 	height: 50px;
 	background-color: red;
 	white-space: nowrap;
-	margin-left: 1050px;
 	margin-top: 10px;
 	display: inline-block;
 }
