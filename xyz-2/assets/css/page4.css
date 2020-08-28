@@ -33,7 +33,6 @@ body {
 }
 
 .sentence1 {
-	margin-top: 100px;
 	background-color: black;
 	border: 1px solid black;
 	display: inline-block;
@@ -41,7 +40,6 @@ body {
 }
 
 .sentence2 {
-	margin-top: 100px;
 	background-color: black;
 	border: 1px solid black;
 	display: inline-block;
@@ -49,7 +47,6 @@ body {
 }
 
 .sentence3 {
-	margin-top: 100px;
 	background-color: black;
 	border: 1px solid black;
 	display: inline-block;
