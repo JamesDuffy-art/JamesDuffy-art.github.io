@@ -12,6 +12,11 @@ body {
 	border: 1px solid white;
 }
 
+.title:hover {
+	background-color: white;
+	color: red;
+}
+
 .icon1 {
 	font-family: arial;
 	font-size: 40px;
@@ -29,7 +34,7 @@ body {
 
 .icon1:hover {
 	background-color:white;
-	color: red
+	color: red;
 }
 
 .icon2 {
@@ -48,7 +53,7 @@ body {
 
 .icon2:hover {
 	background-color:white;
-	color: red
+	color: red;
 }
 
 .icon3 {
@@ -67,5 +72,5 @@ body {
 
 .icon3:hover {
 	background-color:white;
-	color: red
+	color: red;
 }
