@@ -35,18 +35,25 @@ body {
 .sentence1 {
 	margin-top: 100px;
 	background-color: black;
+	border: 1px solid black;
+	display: inline-block;
+	vertical-align: 300px;
 }
 
 .sentence2 {
 	margin-top: 100px;
 	background-color: black;
-	margin-left: 300px
+	border: 1px solid black;
+	display: inline-block;
+	vertical-align: 400px;
 }
 
 .sentence3 {
 	margin-top: 100px;
 	background-color: black;
-	margin-left: 600px
+	border: 1px solid black;
+	display: inline-block;
+	vertical-align: 500px;
 }
 
 
@@ -61,10 +68,3 @@ body {
  		color:blue;
 }
 
-span {
-	background-color: black;
-	border: 1px solid black;
-	display: inline-block;
-	width: 400px;
-	animation: colorchange 5s infinite;
-}
