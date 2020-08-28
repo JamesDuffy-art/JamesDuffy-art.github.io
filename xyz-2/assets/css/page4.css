@@ -46,7 +46,7 @@ body {
 	border: 1px solid black;
 	display: inline-block;
 	width: 400px;
-	vertical-align: 200px;
+	vertical-align: 300px;
 }
 
 .sentence3 {
@@ -54,7 +54,7 @@ body {
 	border: 1px solid black;
 	display: inline-block;
 	width: 400px;
-	vertical-align: 300px;
+	vertical-align: 600px;
 }
 
 
