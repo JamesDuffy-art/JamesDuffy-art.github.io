@@ -47,7 +47,7 @@ body {
 	border: 1px solid black;
 	display: inline-block;
 	width: 400px;
-	vertical-align: 100px;
+	vertical-align: 0px;
 	animation: colorchange 5s infinite;
 }
 
