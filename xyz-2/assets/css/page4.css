@@ -12,6 +12,7 @@ body {
 	width: 400px;
 	animation: colorchange 5s infinite;
 	vertical-align: 0px;
+	margin-bottom: 20px;
 }
 
 .date {
@@ -37,7 +38,6 @@ body {
 	border: 1px solid black;
 	display: inline-block;
 	width: 400px;
-	margin-top: 500px;
 }
 
 .sentence2 {
