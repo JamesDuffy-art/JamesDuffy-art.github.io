@@ -38,6 +38,7 @@ body {
 	border: 1px solid black;
 	display: inline-block;
 	width: 400px;
+	vertical-align: 100px;
 }
 
 .sentence2 {
@@ -45,6 +46,7 @@ body {
 	border: 1px solid black;
 	display: inline-block;
 	width: 400px;
+	vertical-align: 200px;
 }
 
 .sentence3 {
@@ -52,6 +54,7 @@ body {
 	border: 1px solid black;
 	display: inline-block;
 	width: 400px;
+	vertical-align: 300px;
 }
 
 
