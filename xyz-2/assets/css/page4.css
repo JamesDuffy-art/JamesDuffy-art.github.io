@@ -32,8 +32,19 @@ body {
 	vertical-align: 200px;
 }
 
-.sentence {
+.sentence1 {
 	margin-top: 100px;
+	background-color: black;
+}
+
+.sentence2 {
+	margin-top: 100px;
+	background-color: black;
+}
+
+.sentence3 {
+	margin-top: 100px;
+	background-color: black;
 }
 
 
