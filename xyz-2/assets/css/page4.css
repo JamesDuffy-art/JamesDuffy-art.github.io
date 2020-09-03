@@ -1,5 +1,5 @@
 body {
-	font-family: Univers,sans-serif;
+	font-family: calibri,sans-serif;
 	font-size: 60px;
 	color:white;
 	background-color: green;
@@ -11,8 +11,10 @@ body {
 	display: inline-block;
 	width: 400px;
 	animation: colorchange 5s infinite;
-	vertical-align: 0px;
+	vertical-align: 200px;
 	margin-bottom: 20px;
+	margin-top: 20px;
+	margin-left: 20px;
 }
 
 .date {
@@ -21,7 +23,7 @@ body {
 	display: inline-block;
 	width: 400px;
 	animation: colorchange 5s infinite;
-	vertical-align: 100px;
+	vertical-align: 125px;
 }
 
 .title {
@@ -30,24 +32,25 @@ body {
 	display: inline-block;
 	width: 400px;
 	animation: colorchange 5s infinite;
-	vertical-align: 200px;
+	vertical-align: 0px;
 }
 
 .sentence1 {
 	background-color: black;
 	border: 1px solid black;
 	display: inline-block;
-	width: 400px;
-	vertical-align: 300px;
+	width: 500px;
+	vertical-align: 600px;
 	animation: colorchange 5s infinite;
+	margin-left: 20px;
 }
 
 .sentence2 {
 	background-color: black;
 	border: 1px solid black;
 	display: inline-block;
-	width: 400px;
-	vertical-align: 0px;
+	width: 300px;
+	vertical-align: 500px;
 	animation: colorchange 5s infinite;
 }
 
@@ -56,7 +59,7 @@ body {
 	border: 1px solid black;
 	display: inline-block;
 	width: 400px;
-	vertical-align: 600px;
+	vertical-align: 450px;
 	animation: colorchange 5s infinite;
 }
 

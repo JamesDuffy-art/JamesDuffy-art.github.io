@@ -1,12 +1,12 @@
 body {
 	background-color: black;
+	font-family: chiller;
 }
 
 .title {
-	font-family: Helvetica,Arial,sans-serif;
 	font-size: 70px;
 	text-align: center;
-	background-color: red;
+	background-color: darkorange;
 	color: white;
 	margin-bottom: 20px;
 	border: 1px solid white;
@@ -14,17 +14,17 @@ body {
 
 .title:hover {
 	background-color: white;
-	color: red;
+	color: darkorange;
+	cursor: pointer;
 }
 
 .icon1 {
-	font-family: arial;
 	font-size: 40px;
 	color: white;
 	text-align: center;
 	width: 200px;
 	height: 50px;
-	background-color: red;
+	background-color: darkorange;
 	white-space: nowrap;
 	margin-top: 10px;
 	margin-left: 350px;
@@ -34,17 +34,17 @@ body {
 
 .icon1:hover {
 	background-color:white;
-	color: red;
+	color: darkorange;
+	cursor: pointer;
 }
 
 .icon2 {
-	font-family: arial;
 	font-size: 40px;
 	color: white;
 	text-align: center;
 	width: 200px;
 	height: 50px;
-	background-color: red;
+	background-color: darkorange;
 	white-space: nowrap;
 	margin-top: 10px;
 	display: inline-block;
@@ -53,17 +53,17 @@ body {
 
 .icon2:hover {
 	background-color:white;
-	color: red;
+	color: darkorange;
+	cursor: pointer;
 }
 
 .icon3 {
-	font-family: arial;
 	font-size: 40px;
 	color: white;
 	text-align: center;
 	width: 200px;
 	height: 50px;
-	background-color: red;
+	background-color: darkorange;
 	white-space: nowrap;
 	margin-top: 10px;
 	display: inline-block;
@@ -72,6 +72,16 @@ body {
 
 .icon3:hover {
 	background-color:white;
-	color: red;
+	color: darkorange;
+	cursor: pointer;
 }
 
+.container {
+	margin-left: 14px;
+}
+
+.container2 {
+	margin-right: 0px;
+	margin-bottom: 0px;
+	text-align: right;
+}
