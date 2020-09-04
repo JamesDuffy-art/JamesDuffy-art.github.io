@@ -22,12 +22,12 @@ body {
 	font-size: 40px;
 	color: white;
 	text-align: center;
-	width: 200px;
+	width: 300px;
 	height: 50px;
 	background-color: darkorange;
 	white-space: nowrap;
 	margin-top: 10px;
-	margin-left: 350px;
+	margin-left: 20px;
 	display: inline-block;
 	border: 1px solid white;
 }
@@ -42,7 +42,7 @@ body {
 	font-size: 40px;
 	color: white;
 	text-align: center;
-	width: 200px;
+	width: 300px;
 	height: 50px;
 	background-color: darkorange;
 	white-space: nowrap;
@@ -61,7 +61,7 @@ body {
 	font-size: 40px;
 	color: white;
 	text-align: center;
-	width: 200px;
+	width: 300px;
 	height: 50px;
 	background-color: darkorange;
 	white-space: nowrap;
@@ -76,8 +76,27 @@ body {
 	cursor: pointer;
 }
 
+.icon4 {
+	font-size: 40px;
+	color: white;
+	text-align: center;
+	width: 300px;
+	height: 50px;
+	background-color: darkorange;
+	white-space: nowrap;
+	margin-top: 10px;
+	display: inline-block;
+	border: 1px solid white;
+}
+
+.icon4:hover {
+	background-color:white;
+	color: darkorange;
+	cursor: pointer;
+}
+
 .container {
-	margin-left: 14px;
+	margin-left: 0px;
 }
 
 .container2 {

@@ -15,7 +15,7 @@ body {
 .date {
 	background-color: white;
 	font-family: times new roman;
-	animation: other 5s infinite;
+	animation: other 10s;
 	text-align: left;
 	margin-left: 150px;
 	margin-bottom: 20px;
@@ -34,7 +34,7 @@ body {
 .sentence {
 	background-color: white;
 	font-family: times new roman;
-	animation: other 5s infinite;
+	animation: other 10s;
 	text-align: left;
 	margin-bottom: 20px;
 	
@@ -45,8 +45,11 @@ body {
  		color:red;
  		width: 0%;
 	}
+	50% {
+		color: blue;
+	}
 	100% {
- 		color:blue;
+ 		color:black;
  		width: 80%;
  		letter-spacing: 25px;
 	}
@@ -54,11 +57,14 @@ body {
 
 @keyframes other {
 	0% {
-		color:blue;
+		color:black;
 		background-color: black;
 	}
-	100% {
+	50% {
 		color:red;
+	}
+	100% {
+		color:black;
 		background-color: white;
 	}
 }
