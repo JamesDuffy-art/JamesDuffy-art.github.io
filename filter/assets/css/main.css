@@ -53,9 +53,16 @@ filter: grayscale(100%) contrast(3);
 
 
 .next {
+	background-color: red;
+}
 
+
+.next:hover {
+	cursor: pointer;
+	color: white;
+	background-color: black;
 }
 
 .footer {
-
+	background-color: red;
 }
