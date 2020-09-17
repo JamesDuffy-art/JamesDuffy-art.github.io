@@ -49,6 +49,9 @@ body {
 	margin: auto;
 }
 
+filter: grayscale(100%) contrast(3);
+
+
 .next {
 
 }

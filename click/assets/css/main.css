@@ -122,3 +122,6 @@ body {
 
 /*Add .item .hide */
 
+.item.hide {
+	display: none;
+}
