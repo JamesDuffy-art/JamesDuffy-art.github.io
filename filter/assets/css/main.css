@@ -47,9 +47,10 @@ body {
 	max-width: 100%;
 	display: block;
 	margin: auto;
+	filter: grayscale(100%) contrast(1);
 }
 
-filter: grayscale(100%) contrast(3);
+filter: grayscale(50%) contrast(3);
 
 
 .next {
