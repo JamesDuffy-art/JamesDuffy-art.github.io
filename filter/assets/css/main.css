@@ -1,5 +1,5 @@
 body {
-	font-family: arial;
+	font-family: sweet-square-pro;
 	font-size: 18px;
 }
 
@@ -17,7 +17,7 @@ body {
 	border: 1px solid black;
 	padding: 10px;
 	margin: 10px;
-	border-radius: 10px;
+	border-radius: 30px;
 }
 
 .btn:hover {
@@ -38,16 +38,24 @@ body {
 }
 
 .item {
-	width: 16.66%;
+	width: 20%;
 	padding: 20px;
 	background-color: papayawhip;
 }
 
 .item img {
-	max-width: 100%;
+	width: 100%;
 	display: block;
 	margin: auto;
 	filter: grayscale(100%) contrast(1);
+}
+
+.item.large {
+	width: 40%;
+}
+
+.item.medium {
+	width: 30%;
 }
 
 .next {
