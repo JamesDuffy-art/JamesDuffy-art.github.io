@@ -38,7 +38,7 @@ body {
 }
 
 .item {
-	width: 20%;
+	width: 16.66%;
 	padding: 20px;
 	background-color: papayawhip;
 }
@@ -49,9 +49,6 @@ body {
 	margin: auto;
 	filter: grayscale(100%) contrast(1);
 }
-
-filter: grayscale(50%) contrast(3);
-
 
 .next {
 	background-color: red;
