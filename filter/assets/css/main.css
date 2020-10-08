@@ -37,6 +37,10 @@ body {
 	align-items: stretch;
 }
 
+.hide {
+	display: none;
+}
+
 .item {
 	width: 25%;
 	padding: 20px;
