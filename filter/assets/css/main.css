@@ -1,6 +1,7 @@
 body {
 	font-family: captain-comic;
 	font-size: 15px;
+	background-color: papayawhip;
 }
 
 .title {
@@ -8,6 +9,10 @@ body {
 	justify-content: center;
 	background-color: yellow;
 	font-size: 100px;
+	width: 100%;
+	text-align: center;
+	left: 0px;
+	margin-top: 20px;
 	font-family: ccbiffbamboomoutline, sans-serif;
 }
 
