@@ -3,11 +3,21 @@ body {
 	font-size: 15px;
 }
 
+.title {
+	display: flex;
+	justify-content: center;
+	background-color: yellow;
+	font-size: 100px;
+	font-family: ccbiffbamboomoutline, sans-serif;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+
 .nav {
 	display: flex;
 	justify-content: center;
 	background-color: red;
-	box-shadow: 0px 0px 10px 10px lightgray;
 	top: 0px;
 	left: 0px;
 	width: 100%;
