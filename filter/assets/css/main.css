@@ -9,9 +9,6 @@ body {
 	background-color: yellow;
 	font-size: 100px;
 	font-family: ccbiffbamboomoutline, sans-serif;
-	margin-top: 10px;
-	margin-bottom: 10px;
-	margin-left: 10px;
 }
 
 .nav {
@@ -112,6 +109,9 @@ body {
 
 /*iphone styles*/
 @media (max-width: 400px) {
+	.title {
+		font-size: 35px;
+	}
 
 	.footer {
 		font-size: 10px;
@@ -164,6 +164,7 @@ body {
 		padding: 5px;
 		margin: 5px;
 		border-radius: 10px;
+		justify-content: center;
 	}
 
 	.container {
