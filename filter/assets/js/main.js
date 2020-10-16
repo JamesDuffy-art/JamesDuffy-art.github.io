@@ -36,9 +36,11 @@ $(document).ready(function () {
   $(".btn-pat").click(function () {
     $(".item").addClass("hide");
     $(".item.pat").removeClass("hide");
+    console.log("pat");
   });
 
   $(".btn-reset").click(function () {
     $(".item").removeClass("hide");
+    console.log("reset");
   });
 });
