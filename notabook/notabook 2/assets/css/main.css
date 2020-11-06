@@ -1,56 +1,28 @@
 body {
-	font-family: arial,sans-serif;
-	font-size: 32px;
-	background-color: white;
+	background-color: black;
 	color: white;
+	font-size: 40px;
 	line-height: 42px;
+	font-family: apertura, sans-serif;
 }
 
-.title {
+h1 {
 	font-size: 60px;
 	font-family: poiret-one, sans-serif;
-	color: black;
-	margin-top: 10px;
+	margin-top: 20px;
 	margin-bottom: 20px;
 }
 
-.subhead {
-	font-size: 45px;
-	font-family: poiret-one, sans-serif;
-	color: black;
-}
-
-.text {
-	background-color: black;
-	text-indent: 100px;
-}
-
-.author {
-	font-size: 45px;
-	font-family: poiret-one, sans-serif;
-	color: black;
-	text-align: right;
-}
-
-
-h1 {
-	font-size: 33vw;
-	line-height: 23vw;
-	letter-spacing: -16px;
-	text-align: right;
-	margin-top: 5vw;
-	font-family: alternate-gothic-compressed, sans-serif;
-}
-
 h2 {
-	font-size: 80px;
-	line-height: 75px;
-	font-family: alternate-gothic-compressed, sans-serif;
+	font-size: 45px;
+	font-family: poiret-one, sans-serif;
+	margin-bottom: 20px;
 }
 
 h3 {
-	font-size: 30px;
-	line-height: 32px;
+	font-size: 45px;
+	font-family: poiret-one, sans-serif;
+	text-align: right;
 }
 
 p {
@@ -58,24 +30,31 @@ p {
 	line-height: 42px;
 }
 
-.container p {
-	width: 50%;
-}
-
 .footnote p {
 	font-size: 18px;
 	line-height: 20px;
 	width: 50%;
 	color: gray;
-	font-family: arial;
+	font-family: apertura, sans-serif;
 	margin-bottom: 20px;
 }
 
-.text p {
-	text-indent: 200px;
+.text {
+	text-indent: 100px;
 	text-align: justify;
+	width: 50%;
 }
 
-p.noindent {
-	text-indent: 0px;
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	width: 50%;
+}
+
+.w1of2 {
+	width: 50%;
+}
+
+.w1of3 {
+	
 }
