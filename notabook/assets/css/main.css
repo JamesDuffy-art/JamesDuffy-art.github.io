@@ -1,0 +1,275 @@
+body {
+	font-family: apertura, sans-serif;
+	font-size: 20px;
+	background-color: black;
+	color: white;
+	line-height: 32px;
+}
+
+h1 {
+	font-size: 60px;
+	font-family: poiret-one, sans-serif;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+h2 {
+	font-size: 40px;
+	font-family: poiret-one, sans-serif;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+h3 {
+	font-size: 40px;
+	font-family: poiret-one, sans-serif;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+a {
+	color: gray;
+	text-decoration: none;
+}
+
+.title {
+	font-size: 60px;
+	font-family: poiret-one, sans-serif;
+	margin-top: 30px;
+	margin-left: 10px;
+	margin-bottom: 20px;
+}
+
+.indexbtn {
+	display: flex;
+	width: 500px;
+	height: 100px;
+	color: white;
+	font-size: 40px;
+	outline-color: white;
+	outline-style: solid;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-top: 10px;
+	text-align: center;
+}
+
+.indexbtn:hover {
+	background-color: white;
+	color: black;
+	cursor: pointer;
+}
+
+.footnote {
+	font-size: 20px;
+	line-height: 20px;
+	width: 40%;
+	color: gray;
+	font-family: apertura, sans-serif;
+	margin-bottom: 20px;
+	margin-left: 10px;
+	margin-top: 20px;
+}
+
+.text {
+	text-indent: 100px;
+	text-align: justify;
+	width: 50%;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	width: 50%;
+}
+
+.subhead {
+	font-size: 40px;
+	font-family: poiret-one, sans-serif;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.intro1 {
+	column-count: 4;
+	padding: 20px;
+	outline-style: solid;
+	outline-color: white;
+}
+
+.intro2 {
+	column-count: 4;
+	padding: 20px;
+	outline-style: solid;
+	outline-color: white;
+}
+
+.wfa1 {
+	column-count: 4;
+	padding: 20px;
+	outline-style: solid;
+	outline-color: white;
+}
+
+.wfa2 {
+	column-count: 4;
+	padding: 20px;
+	outline-style: solid;
+	outline-color: white;
+}
+
+.wfa3 {
+	column-count: 4;
+	padding: 20px;
+	outline-style: solid;
+	outline-color: white;
+}
+
+.wfa4 {
+	column-count: 4;
+	padding: 20px;
+	outline-style: solid;
+	outline-color: white;
+}
+
+.pwu1 {
+	column-count: 4;
+	padding: 20px;
+	outline-style: solid;
+	outline-color: white;
+}
+
+.pwu2 {
+	column-count: 4;
+	padding: 20px;
+	outline-style: solid;
+	outline-color: white;
+}
+
+.pwu3 {
+	column-count: 4;
+	padding: 20px;
+	outline-style: solid;
+	outline-color: white;
+}
+
+.u2a1 {
+	column-count: 4;
+	padding: 20px;
+	outline-style: solid;
+	outline-color: white;
+}
+
+.u2a2 {
+	column-count: 4;
+	padding: 20px;
+	outline-style: solid;
+	outline-color: white;
+}
+
+.u2a3 {
+	column-count: 4;
+	padding: 20px;
+	outline-style: solid;
+	outline-color: white;
+}
+
+.u2a4 {
+	column-count: 4;
+	padding: 20px;
+	outline-style: solid;
+	outline-color: white;
+}
+
+.bulk1 {
+	column-count: 2;
+	padding: 20px;
+	outline-style: solid;
+	outline-color: white;
+}
+
+.bulk2 {
+	column-count: 4;
+	padding: 20px;
+	outline-style: solid;
+	outline-color: white;
+}
+
+.bulk3 {
+	column-count: 4;
+	padding: 20px;
+	outline-style: solid;
+	outline-color: white;
+}
+
+.bulk4 {
+	column-count: 4;
+	padding: 20px;
+	outline-style: solid;
+	outline-color: white;
+}
+
+.conclusion {
+	column-count: 4;
+	padding: 20px;
+	outline-style: solid;
+	outline-color: white;
+}
+
+.book {
+	width: 150px;
+	height: 200px;
+	outline-style: solid;
+	outline-color: white;
+	margin-left: 10px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.book:hover {
+	background-color: white;
+	color: black;
+	cursor: pointer;
+}
+
+.patchett {
+	column-count: 4;
+	padding: 20px;
+	outline-style: solid;
+	outline-color: white;
+}
+
+.belfoure {
+	column-count: 4;
+	padding: 20px;
+	outline-style: solid;
+	outline-color: white;
+}
+
+.finn {
+	column-count: 2;
+	padding: 20px;
+	outline-style: solid;
+	outline-color: white;
+}
+
+.north {
+	column-count: 4;
+	padding: 20px;
+	outline-style: solid;
+	outline-color: white;
+}
+
+.towles {
+	column-count: 4;
+	padding: 20px;
+	outline-style: solid;
+	outline-color: white;
+}
+
+.kline {
+	column-count: 4;
+	padding: 20px;
+	outline-style: solid;
+	outline-color: white;
+}
