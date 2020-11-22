@@ -12,12 +12,6 @@ body {
 	border: 1px solid white;
 }
 
-.title:hover {
-	background-color: white;
-	color: darkorange;
-	cursor: pointer;
-}
-
 .icon1 {
 	font-size: 40px;
 	color: white;
@@ -124,3 +118,9 @@ body {
 	background-color: white;
 	color: black;
 	cursor: pointer;
+}
+
+.subhead {
+	color: white;
+	font-size: 40px;
+}
