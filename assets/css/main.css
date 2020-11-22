@@ -104,3 +104,23 @@ body {
 	margin-bottom: 0px;
 	text-align: right;
 }
+
+.indexbtn {
+	display: flex;
+	width: 250px;
+	height: 50px;
+	color: white;
+	font-size: 40px;
+	outline-color: white;
+	outline-style: solid;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	margin-top: 10px;
+	text-align: center;
+	white-space: nowrap;
+}
+
+.indexbtn:hover {
+	background-color: white;
+	color: black;
+	cursor: pointer;
