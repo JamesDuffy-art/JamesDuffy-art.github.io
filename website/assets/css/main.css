@@ -1,0 +1,132 @@
+* {
+	box-sizing: border-box;
+  }
+  
+  body {
+	font-size: 40px;
+	font-family: futura-pt;
+	background-color: black;
+  }
+
+  .cherries img {
+	  width: 310px;
+	  margin-top: 100px;
+	  margin-bottom: 100px;
+  }
+
+  .clover img {
+	  width: 310px;
+	  margin-top: 130px;
+	  margin-bottom: 130px;
+  }
+  
+  .container {
+	display: flex;
+	flex-wrap: wrap;
+  }
+  
+  .left {
+	width: 33.33%;
+	height: 100vh;
+	background-color: gold;
+	overflow: scroll;
+	padding: 20px;
+	text-align: center;
+  }
+
+  .centre {
+	width: 33.33%;
+	height: 100vh;
+	background-color: goldenrod;
+	overflow: scroll;
+	padding: 20px;
+	text-align: center;
+  }
+
+  .right {
+	width: 33.33%;
+	height: 100vh;
+	background-color: gold;
+	overflow: scroll;
+	padding: 20px;
+	text-align: center;
+  }
+
+  ::-webkit-scrollbar {
+	width: 20px;
+}
+
+::-webkit-scrollbar-track {
+	background-color: black;
+	width: 20px;
+}
+
+::-webkit-scrollbar-thumb {
+	background-color: black;
+	width: 10px;
+	padding: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background-color: green;
+	cursor: pointer;
+}
+
+.header {
+	font-size: 300px;
+	color: gold;
+	justify-content: center;
+	display: flex;
+	font-family: mesquite-std, sans-serif;
+	background-color: crimson;
+	margin-bottom: 30px;
+}
+
+.subhead1 {
+	position: absolute;
+	font-size: 20px;
+	top: 300px;
+	left: 5px;
+	color: gold;
+	background-color: black;
+	font-family: fatboy, serif;
+}
+
+.subhead2 {
+	position: absolute;
+	font-size: 20px;
+	top: 300px;
+	left: 470px;
+	color: gold;
+	background-color: black;
+	font-family: fatboy, serif;
+}
+
+.subhead3 {
+	position: absolute;
+	font-size: 20px;
+	top: 300px;
+	left: 870px;
+	color: gold;
+	background-color: black;
+	font-family: fatboy, serif;
+}
+
+.indexbtn {
+	font-size: 60px;
+	color: gold;
+	background-color: crimson;
+	justify-content: center;
+	display: flex;
+	font-family: fatboy, serif;
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+
+
+
+
+
+  
+  
+
